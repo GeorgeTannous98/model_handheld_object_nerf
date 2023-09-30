@@ -62,7 +62,7 @@ def extract_frames(video_file: str, output_folder: str):
 
         frame_count += 1
 
-        # Check if it's time to save this frame (every fifth frame)
+        # Check if it's time to save this frame (every 3rd frame)
         if frame_count % frame_interval == 0:
             # Save the frame as an image in the output folder
             frame_filename = os.path.join(output_folder, f'frame_{counter}.png')
