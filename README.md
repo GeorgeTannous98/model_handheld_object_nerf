@@ -15,8 +15,8 @@ Using a video \ set of images of a handheld object, we use image processing to e
 ![example_image3](images/before_extracting_hand/example_image3.png)
 ### Images After Hand Extraction
 ![image_1](images/after_extracting_hand/image_1.png)
-![image_2](images/after_extracting_hand/image_1.png)
-![image_3](images/after_extracting_hand/image_1.png)
+![image_2](images/after_extracting_hand/image_2.png)
+![image_3](images/after_extracting_hand/image_3.png)
 ### Rendering Result
 ![render](renderResults/render.gif)
 ![render2](renderResults/render2.gif)
