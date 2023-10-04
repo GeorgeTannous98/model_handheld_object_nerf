@@ -20,5 +20,5 @@ Using a video \ set of images of a handheld object, we use image processing to e
 ### Rendering Result
 ![render](renderResults/render.gif)
 ![render2](renderResults/render2.gif)
-![render]3(renderResults/render3.gif)
+![render3](renderResults/render3.gif)
 
