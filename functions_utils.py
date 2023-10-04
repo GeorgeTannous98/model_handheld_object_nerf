@@ -49,7 +49,7 @@ def extract_frames(video_file: str, output_folder: str):
         exit()
     # Initialize variables
     frame_count = 0
-    frame_interval = 3  # Save every fifth frame
+    frame_interval = 3  # Save every 3rd frame
 
     os.makedirs(output_folder, exist_ok=True)
     counter = 0
