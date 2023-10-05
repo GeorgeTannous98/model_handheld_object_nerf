@@ -9,6 +9,10 @@ Using a video \ set of images of a handheld object, we use image processing to e
 3. training the colmap output data using nerf.
 4. creating a rendering result.
 
+### notes
+our input data was 219 frames of size 720x1280, we resized our frames to 480x853 before doing data preprocessing
+so our images after hand extraction were of resolution 480x853.
+
 ### Example of images Before Hand Extraction ( 219 Frames | 720 x 1280)
 
 we exctracted the  frames from the video and we got the following sequence.
