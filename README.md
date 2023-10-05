@@ -10,12 +10,15 @@ Using a video \ set of images of a handheld object, we use image processing to e
 4. creating a rendering result.
 
 ### Example of images Before Hand Extraction ( 219 Frames | 720 x 1280)
+we exctracted the  frames from the video and we got the following sequence.
 ![before_hand_extraction.gif](data/before_hand_extraction.gif)
 
 ### Example of images After Hand Extraction ( 219 Frames | 480 x 853)
+After removing the hands and the background noise, we got the following images.
 ![after_hand_extraction](data/after_hand_extraction.gif)
 
 ### Colmap Poses
+After using Colmap on the sequence, we got the poses in this sequence around the object
 ![colmap_poses](data/colmap_poses.png)
 
 ### Rendering Result
