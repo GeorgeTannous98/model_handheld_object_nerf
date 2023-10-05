@@ -9,10 +9,11 @@ Using a video \ set of images of a handheld object, we use image processing to e
 3. training the colmap output data using nerf.
 4. creating a rendering result.
 
-### Example of images Before Hand Extraction
+### Example of images Before Hand Extraction ( X Frames | X x X)
+
 ![before_hand_extraction.gif](data/before_hand_extraction.gif.gif)
 
-### Example of images After Hand Extraction
+### Example of images After Hand Extraction ( X Frames | X x X)
 ![after_hand_extraction](data/after_hand_extraction.gif)
 
 ### Rendering Result
